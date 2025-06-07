@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcob23
 - 👀 I’m interested in, fantasy worlds, esports, backend and fromsoftawe games :D
-- 🌱 I’m currently learning Java, Developing mobile apps, python
+- 🌱 I’m currently learning Rust, Developing web apps via Dioxus, svelte, pthon 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me....
 
